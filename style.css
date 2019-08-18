@@ -1,0 +1,36 @@
+#loginAutogestion {
+    margin-top: 120px;
+    max-width: 900px;
+    border-radius: 2%;
+  }  
+
+  #login .container #login-row #login-column #login-box {
+    margin-top: 120px;
+    max-width: 600px;
+    border-radius: 2%;
+  }
+  #login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+  }
+  #login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -85px;
+  }
+
+  .imagenLogoInicio {
+    padding-top: 2%;   
+    padding-bottom: 2%;   
+    width: 60%;
+  }
+
+  .fondoBody{
+      background-image: url('fondo.jpg');
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+
+  .fondoDiv{
+      border-radius: 2%;
+    background-color: rgba(255, 255, 255, 0);
+  }
